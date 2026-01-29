@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-#title = "🚧WEBSITE UNDER CONSTRUCTION🚧"
+title = "🚧WEBSITE UNDER CONSTRUCTION🚧"
 #subtitle = "Check the [opportunities](#opportunities) section"
 
 [design]

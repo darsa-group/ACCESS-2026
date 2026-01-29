@@ -23,6 +23,7 @@ sudo apt-get install -y libcurl4-openssl-dev libfontconfig1-dev libharfbuzz-dev 
 
 #### Windows
 -  Install pandoc: Download the installer from pandoc.org/installing.html and add it to your PATH.
+- Install GO: https://go.dev/dl/
 - For system libraries: These are typically handled by R during package installation. Ensure Rtools is installed (download from cran.r-project.org/bin/windows/Rtools) for compilation support. 
 
 #### Environment Variables

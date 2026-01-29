@@ -1,8 +1,17 @@
 # ACCESS-2026 Website
 
-This repository contains the source for the ACCESS-2026 website, built with Hugo and blogdown.
+This repository contains the source for the static ACCESS-2026 website, built with Hugo and blogdown.
+
+## Github CI workflow
+Commits to the `source` branch automatically trigger rebuilding, and a Github Action is triggered upon completion that publishes the website on the specified subdomain. 
+
+`.github/workflows/deploy.yaml` contains info on how to build the website from this repo. 
+
+Secrets (i.e. Google service JSON key) is injected via Github's account management system system (Settings > Secrets and variables > Actions). 
 
 ## Local Installation and Build
+
+You can also build the website locally, to test features before pushing to the remote. 
 
 ### Prerequisites
 - Install R (latest stable version from [cran.r-project.org](https://cran.r-project.org/)).
@@ -18,7 +27,7 @@ This repository contains the source for the ACCESS-2026 website, built with Hugo
 Run these commands in a terminal:
 ```sh
 sudo apt-get update
-sudo apt-get install -y libcurl4-openssl-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev pandoc
+sudo apt-get install -y libcurl4-openssl-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev pandoc golang-go
 ```
 
 #### Windows
@@ -26,7 +35,7 @@ sudo apt-get install -y libcurl4-openssl-dev libfontconfig1-dev libharfbuzz-dev 
 - Install GO: https://go.dev/dl/
 - For system libraries: These are typically handled by R during package installation. Ensure Rtools is installed (download from cran.r-project.org/bin/windows/Rtools) for compilation support. 
 
-#### Environment Variables
+#### Secrets management
  - `GOOGLE_SERVICE_JSON_KEY`: This is the JSON content of a Google Cloud service account key. To get it:
     - Go to the Google Cloud Console.
     - Create or select a project. 
@@ -58,3 +67,5 @@ source .secret && Rscript _preprocess.R && Rscript -e 'blogdown::build_site(buil
 ``` cmd
 build.bat
 ``` 
+
+If successful, Hugo should serve the website on `localhost` address that you can open in your browser. 

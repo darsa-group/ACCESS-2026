@@ -38,12 +38,12 @@ slickR::slickR(
 
 
 
-Last year we ran the first edition of ACCESS with ([ACCESS-2024](https://darsa.info/ACCESS-2024/)),
+Last year we ran the first edition of ACCESS with ([ACCESS-2025](https://darsa.info/ACCESS-2025/)),
 which, due to the dedication of the students and mentors, was a *[huge success](https://www.linkedin.com/pulse/when-ai-technology-revolutionises-biologists-vh3tf/?trackingId=yfMjRzJLxsUhWQjjFfDxJg%3D%3D)*, and we learn a lot about from each other.
 In 2024, we received more than 100 applications, but could only select 20 participants.
 Therefore, we are thrilled to have an opportunity to run the course again and offer this learning opportunity to more.
 
-More information and material is available on the [ACCESS-2024 website](https://darsa.info/ACCESS-2024/).
+More information and material is available on the [ACCESS-2025 website](https://darsa.info/ACCESS-2025/).
 
 
 

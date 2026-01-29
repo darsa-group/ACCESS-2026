@@ -16,7 +16,9 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: qgeissmann@qgg.au.dk
+  email: 
+    - luca.pegoraro@wsl.ch
+    - jalison@ecos.au.dk
 design:
   columns: '2'
 ---

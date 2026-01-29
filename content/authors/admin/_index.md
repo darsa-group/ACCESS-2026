@@ -56,8 +56,7 @@ to tackle challenges in insect ecology and entomology.
 
 
 ## Where and when
-ACCESS-2026 is an **in-person, residential summer school** based in the beautiful [**Mols Bjerge National Park**](https://www.naturhistoriskmuseum.dk/mols-laboratory) 
-near Aarhus, Denmark. The event will run from **September 28th** to **October 3th, 2026**. 
+ACCESS-2026 is an **in-person, residential summer school** based in Aarhus, Denmark. The event will run from **September 28th** to **October 3th, 2026**. 
 
 
 

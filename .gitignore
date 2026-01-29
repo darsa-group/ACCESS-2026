@@ -6,7 +6,10 @@ _book
 _bookdown_files
 rsconnect
 .vscode/
+
+## Reproducible R stuff
 renv/
+renv.lock
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

@@ -1,0 +1,5 @@
+ - [ ] Fix "Contributors section"
+    - [ ] Need to first figure out what generates it... 
+    - [ ] Ensure that data gets pulled correctly from Google Sheet
+ - [ ] Add some new pics from 2025 edition in `static/img/`. 
+ - [ ] Re-write parts of the description based on feedback. 

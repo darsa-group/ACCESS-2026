@@ -3,5 +3,6 @@
     - [x] Need to first figure out what generates it... 
     - [x] Ensure that data gets pulled correctly from Google Sheet
     - [x] Fix rendering problems (`_preprocess.R` and Hugo mismatch?)
+ - [ ] Fix Past edition section
  - [ ] Add some new pics from 2025 edition in `static/img/`. 
  - [ ] Re-write parts of the description based on feedback. 

@@ -130,21 +130,23 @@ make_people <- function(id_){
   }
 
   final_dir <- paste("content", "people",paste0(AUTO_PPL_DIR_PREFIX, id_), sep="/")
-
+  # print("=== DEBUGGINNG ON ===")
+  # print(paste0("temporary dir = ", d))
+  # print(paste0("final_dir = ", final_dir))
+  
   if (dir.exists(final_dir)) {
     unlink(final_dir, recursive = TRUE, force = TRUE)
     }
 
-  dir.create(dirname(final_dir), recursive = TRUE, showWarnings = FALSE)
+  dir.create(final_dir, recursive = TRUE, showWarnings = FALSE)
 
   file.copy(
-    from = d,
+    from = list.files(d, full.names = TRUE),
     to = final_dir,
     recursive = TRUE
-    )
+  )
 
   unlink(d, recursive = TRUE, force = TRUE)
-
 
 }
 

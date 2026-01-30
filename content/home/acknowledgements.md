@@ -12,5 +12,7 @@ design:
   columns: '1'
 ---
 
-This summer school is funded by the [InsectAI COST Action](https://www.cost.eu/actions/CA22129/), read more about the COST Association [here](https://insectai.eu/).
+This summer school is funded by the [InsectAI COST Action](https://insectai.eu/); you can become a member of InsectAI by following the instructions on [this page](https://insectai.eu/join-us). 
+
+Read more about the COST Association [here](https://www.cost.eu/).
 

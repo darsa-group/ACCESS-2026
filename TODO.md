@@ -1,6 +1,7 @@
  - [x] Add my and Jamie's emails in "Contact section"
  - [ ] Fix "Contributors section"
-    - [ ] Need to first figure out what generates it... 
-    - [ ] Ensure that data gets pulled correctly from Google Sheet
+    - [x] Need to first figure out what generates it... 
+    - [x] Ensure that data gets pulled correctly from Google Sheet
+    - [ ] Fix rendering problems (`_preprocess.R` and Hugo mismatch?)
  - [ ] Add some new pics from 2025 edition in `static/img/`. 
  - [ ] Re-write parts of the description based on feedback. 

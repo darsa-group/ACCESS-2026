@@ -131,7 +131,15 @@ make_people <- function(id_){
     }
 
   dir.create(dirname(final_dir), recursive = TRUE, showWarnings = FALSE)
-  file.rename(d, final_dir)
+
+  file.copy(
+    from = d,
+    to = final_dir,
+    recursive = TRUE
+    )
+
+  unlink(d, recursive = TRUE, force = TRUE)
+
 
 }
 

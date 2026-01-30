@@ -12,6 +12,8 @@ design:
   columns: '2'
 ---
 
+2024
+
 ```{r, echo=FALSE, message=FALSE}
 library(slickR)
 knitr::opts_chunk$set(
@@ -28,15 +30,35 @@ opts <- slickR::settings(
   slidesToScroll = 2, 
   focusOnSelect = TRUE)
 
-
-
 slickR::slickR(
     sprintf("img/access-2024/%02d.jpg", 1:9),
-    height = 300,
-    width = '95%') + opts
+    # height = 300,
+    width = '100%') + opts
 ```
 
+2025
 
+```{r, echo=FALSE, message=FALSE}
+library(slickR)
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+  
+)
+
+opts <- slickR::settings(
+  dots = TRUE,
+  autoplay = TRUE,
+  initialSlide = 0,
+  slidesToShow = 2, 
+  slidesToScroll = 2, 
+  focusOnSelect = TRUE)
+
+slickR::slickR(
+    sprintf("img/access-2025/%02d.jpg", 1:9),
+    # height = 300,
+    width = '100%') + opts
+```
 
 Last year we ran the first edition of ACCESS with ([ACCESS-2025](https://darsa.info/ACCESS-2025/)),
 which, due to the dedication of the students and mentors, was a *[huge success](https://www.linkedin.com/pulse/when-ai-technology-revolutionises-biologists-vh3tf/?trackingId=yfMjRzJLxsUhWQjjFfDxJg%3D%3D)*, and we learn a lot about from each other.
@@ -44,8 +66,4 @@ In 2024, we received more than 100 applications, but could only select 20 partic
 Therefore, we are thrilled to have an opportunity to run the course again and offer this learning opportunity to more.
 
 More information and material is available on the [ACCESS-2025 website](https://darsa.info/ACCESS-2025/).
-
-
-
-
 

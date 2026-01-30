@@ -100,7 +100,12 @@ make_people <- function(id_){
   row$social_links <- make_links(row)
 
   content <-glue_data(row,people_template)
-  cat(content, file= paste(d,"index.md", sep="/"))
+  
+  out <- paste(d, "index.md", sep="/")
+  con <- file(out, open = "w", encoding = "UTF-8")
+  writeLines(content, con)
+  close(con)
+
   dst_pict_file <- paste(d,'featured.jpg',sep='/')
 
 

@@ -1,3 +1,4 @@
+ - [x] Add my and Jamie's emails in "Contact section"
  - [ ] Fix "Contributors section"
     - [ ] Need to first figure out what generates it... 
     - [ ] Ensure that data gets pulled correctly from Google Sheet

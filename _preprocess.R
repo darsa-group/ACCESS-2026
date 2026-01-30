@@ -111,7 +111,12 @@ make_people <- function(id_){
       file.copy(picture_file, dst_pict_file)
     }
     else{
-      system(glue("curl '{row$picture_url}' > {dst_pict_file}"))
+      download.file(
+        url  = row$picture_url,
+        destfile = dst_pict_file,
+        mode = "wb",
+        quiet = TRUE
+      )
     }
   }
   else{
@@ -121,8 +126,13 @@ make_people <- function(id_){
 
   final_dir <- paste("content", "people",paste0(AUTO_PPL_DIR_PREFIX, id_), sep="/")
 
-  cmd = glue("rm {final_dir} -rf && mv {d} {final_dir}")
-  system(cmd)
+  if (dir.exists(final_dir)) {
+    unlink(final_dir, recursive = TRUE, force = TRUE)
+    }
+
+  dir.create(dirname(final_dir), recursive = TRUE, showWarnings = FALSE)
+  file.rename(d, final_dir)
+
 }
 
 o <- lapply(df$id, make_people)

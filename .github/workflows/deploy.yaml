@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GOOGLE_SERVICE_JSON_KEY: ${{ secrets.GOOGLE_SERVICE_JSON_KEY }}
-      PEOPLE_GOOGLE_SHEET_ID: "1sk8joxrkmu750FYWvRtncQLxlnVlB17AbGOP67j4BEI"
+      PEOPLE_GOOGLE_SHEET_ID: ${{ secrets.PEOPLE_GOOGLE_SHEET_ID }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v1

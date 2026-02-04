@@ -9,7 +9,10 @@
  - [x] Fixed links in acknowledgements
  - [ ] Re-write parts of the description based on feedback. - see [feedback doc](https://docs.google.com/document/d/1ZvhdLSRMQQ8EIsA95UL2lhdMlPYc_8gQvd6BTF_5NvY/edit?tab=t.0).
    - [ ] Application process description
+   - [ ] Some more details about evaluation process
    - [ ] Team project VS application project
    - [ ] Emphasis on mentoring aspect
    - [ ] FAQ to common doubts?
    - [ ] Venue???
+ - [ ] Add dynamic preliminary program (pull from the GSheet directly) - pay attention of when and how it updates, maybe on a schedule?
+  - [ ] Update links to application forms

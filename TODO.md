@@ -3,7 +3,7 @@
     - [x] Need to first figure out what generates it... 
     - [x] Ensure that data gets pulled correctly from Google Sheet
     - [x] Fix rendering problems (`_preprocess.R` and Hugo mismatch?)
- - [ ] Make sure that the CI workflow has the correct secrets too
+ - [x] Make sure that the CI workflow has the correct secrets too
  - [x] Fix Past edition section padding around carousels - The padding is added when the height is not fixes in the R chunk... You either get nice padding but images don't resize properly, or viceversa... Calling it done with the former. 
  - [x] Add some new pics from 2025 edition in `static/img/`.
  - [x] Fixed links in acknowledgements

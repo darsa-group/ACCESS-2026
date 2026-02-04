@@ -7,4 +7,9 @@
  - [x] Fix Past edition section padding around carousels - The padding is added when the height is not fixes in the R chunk... You either get nice padding but images don't resize properly, or viceversa... Calling it done with the former. 
  - [x] Add some new pics from 2025 edition in `static/img/`.
  - [x] Fixed links in acknowledgements
- - [ ] Re-write parts of the description based on feedback. 
+ - [ ] Re-write parts of the description based on feedback. - see [feedback doc](https://docs.google.com/document/d/1ZvhdLSRMQQ8EIsA95UL2lhdMlPYc_8gQvd6BTF_5NvY/edit?tab=t.0).
+   - [ ] Application process description
+   - [ ] Team project VS application project
+   - [ ] Emphasis on mentoring aspect
+   - [ ] FAQ to common doubts?
+   - [ ] Venue???

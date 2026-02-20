@@ -8,7 +8,7 @@ rsconnect
 .vscode/
 
 ## slickR 
-content/home./past_editions.html
+content/home/past_editions.html
 
 ## Reproducible R stuff
 renv/

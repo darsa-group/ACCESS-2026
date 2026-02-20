@@ -50,7 +50,7 @@ but starting to use and developing these methods -- and applying them to real-wo
 to tackle challenges in insect ecology and entomology.
 
 <p align="center">
-  <img alt="timeline" src="img/timeline2026.png" width="100%">
+  <img alt="timeline" src="img/timeline2026.svg" width="100%">
 </p>
 
 

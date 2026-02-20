@@ -26,14 +26,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.2258137"
-     inkscape:cx="267.16947"
-     inkscape:cy="85.657389"
-     inkscape:window-width="1536"
-     inkscape:window-height="864"
-     inkscape:window-x="264"
-     inkscape:window-y="183"
-     inkscape:window-maximized="0"
+     inkscape:zoom="9.8065096"
+     inkscape:cx="17.182464"
+     inkscape:cy="49.252998"
+     inkscape:window-width="2048"
+     inkscape:window-height="1090"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
@@ -112,6 +112,45 @@
        width="215.40404"
        height="70.225403"
        id="rect1-1-72" />
+    <marker
+       style="overflow:visible"
+       id="Dot-2"
+       refX="-0.125"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-7"
+       refX="0.2"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -119,144 +158,148 @@
      id="layer1"
      transform="translate(-17.902313,-111.73681)">
     <path
-       style="opacity:0.8;fill:none;fill-opacity:1;stroke:#333333;stroke-width:1.75;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#ConcaveTriangle)"
-       d="M 21.183563,122.16715 H 180.90739"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.9;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-2);marker-end:url(#ConcaveTriangle-7);stroke-miterlimit:4"
+       d="M 21.035076,122.39067 H 181.64548"
+       id="path1-3" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#333333;stroke-width:1.75;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#ConcaveTriangle)"
+       d="M 21.198009,122.39067 H 181.62505"
        id="path1" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-5.1802326,15.972384)"
        id="text1"
-       style="font-weight:bold;font-size:18.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:6.61417;stroke-dasharray:none;stroke-opacity:1"><tspan
+       style="font-weight:bold;font-size:18.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="289.60156"
          y="379.19428"
-         id="tspan5"><tspan
-           style="font-weight:normal;font-size:24px;-inkscape-font-specification:'Arial, Normal';stroke:none"
-           id="tspan4">Important dates - 2026</tspan></tspan></text>
+         id="tspan2"><tspan
+           style="font-weight:normal;font-size:24px;-inkscape-font-specification:'Arial, Normal'"
+           id="tspan1">Important dates - 2026</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,-86.384792,89.92921)"
        id="text1-8"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:none;stroke-width:6.61417;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"
        x="58.433353"
        y="0"><tspan
-         x="288.5818"
+         x="306.11455"
          y="373.13417"
-         id="tspan8">Apr 15<tspan
+         id="tspan5">Apr 15<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6">th</tspan><tspan
+   id="tspan3">th</tspan><tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-   id="tspan7">
+   id="tspan4">
 </tspan></tspan><tspan
          x="266.53625"
          y="389.13417"
-         id="tspan19"><tspan
+         id="tspan10"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan18">Application
+           id="tspan9">Application
 </tspan></tspan><tspan
          x="285.97626"
          y="405.13417"
-         id="tspan21"><tspan
+         id="tspan12"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan20">deadline</tspan></tspan></text>
+           id="tspan11">deadline</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,20.275266,89.925082)"
        id="text1-8-0"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-7);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:none;stroke-width:6.61417;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-7);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"
        x="58.433353"
        y="0"><tspan
-         x="204.65381"
+         x="243.90381"
          y="373.13417"
-         id="tspan25">Sep 28<tspan
+         id="tspan16">Sep 28<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan22">th</tspan> to Oct  2<tspan
+   id="tspan13">th</tspan> to Oct  2<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan23">nd</tspan><tspan
+   id="tspan14">nd</tspan><tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-   id="tspan24">
+   id="tspan15">
 </tspan></tspan><tspan
          x="233.72028"
          y="389.13417"
-         id="tspan27"><tspan
+         id="tspan18"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan26">Summer school
+           id="tspan17">Summer school
 </tspan></tspan><tspan
          x="270.34427"
          y="405.13417"
-         id="tspan29"><tspan
+         id="tspan20"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan28">(in person)</tspan></tspan></text>
+           id="tspan19">(in person)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,-53.113878,88.702214)"
        id="text1-8-5"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-1);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:none;stroke-width:6.61417;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-1);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"
        x="58.433353"
        y="0"><tspan
-         x="270.52023"
+         x="291.45703"
          y="373.13417"
-         id="tspan31">early June<tspan
+         id="tspan22">early June<tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan30">
+   id="tspan21">
 </tspan></tspan><tspan
          x="282.71228"
          y="389.13417"
-         id="tspan33"><tspan
+         id="tspan24"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan32">Selection
+           id="tspan23">Selection
 </tspan></tspan><tspan
          x="284.13626"
          y="405.13417"
-         id="tspan35"><tspan
+         id="tspan26"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan34">outcome</tspan></tspan></text>
+           id="tspan25">outcome</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,-20.324183,88.697981)"
        id="text1-8-02"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-0);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:none;stroke-width:6.61417;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-0);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"
        x="58.433353"
        y="0"><tspan
-         x="276.56824"
+         x="293.48438"
          y="373.13417"
-         id="tspan37">Jul to Sep<tspan
+         id="tspan28">Jul to Sep<tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan36">
+   id="tspan27">
 </tspan></tspan><tspan
          x="261.52823"
          y="389.13417"
-         id="tspan39"><tspan
+         id="tspan30"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan38">Preparatory
+           id="tspan29">Preparatory
 </tspan></tspan><tspan
          x="252.02426"
          y="405.13417"
-         id="tspan41"><tspan
+         id="tspan32"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan40">work (virtual)</tspan></tspan></text>
+           id="tspan31">work (virtual)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,45.343202,88.756568)"
        id="text1-8-08"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-72);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:none;stroke-width:6.61417;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-72);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"
        x="58.433353"
        y="0"><tspan
-         x="319.12823"
+         x="328.1543"
          y="373.13417"
-         id="tspan43">Nov<tspan
+         id="tspan34">Nov<tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan42">
+   id="tspan33">
 </tspan></tspan><tspan
          x="264.02426"
          y="389.13417"
-         id="tspan45"><tspan
+         id="tspan36"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan44">Final report
+           id="tspan35">Final report
 </tspan></tspan><tspan
          x="266.52023"
          y="405.13417"
-         id="tspan47"><tspan
+         id="tspan38"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan46">&amp; feedback</tspan></tspan></text>
+           id="tspan37">&amp; feedback</tspan></tspan></text>
   </g>
 </svg>

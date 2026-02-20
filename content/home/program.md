@@ -13,6 +13,7 @@ design:
 ---
 
 More details will be published soon. 
-<!-- <p align="center">
-  <img alt="program" src="img/simple_program.png" width="100%">
-</p> -->
+
+<p align="center">
+  <img alt="program" src="img/2026-02-20_ProgramDraft.png" width="100%">
+</p>

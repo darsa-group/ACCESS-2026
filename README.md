@@ -73,3 +73,8 @@ build.bat
 ``` 
 
 If successful, Hugo should serve the website on `localhost` address that you can open in your browser. 
+
+# Minimal notes on Blogdown / Hugo
+Everything that is in `static/` will be copied to a dir named `public/` during website building. Specifically, new media should be added under `static/img/` or `static/video/`. 
+
+To modify the website pages, you should only need to edit the `.md` files contained in `content/`. In addition to the markdown files, there is an `.Rmd` file that generate the HTML picture gallery with [slickR](https://github.com/yonicd/slickR). 

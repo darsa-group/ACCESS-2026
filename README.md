@@ -79,4 +79,7 @@ Everything that is in `static/` will be copied to a dir named `public/` during w
 
 To modify the website pages, you should only need to edit the `.md` files contained in `content/`. In addition to the markdown files, there is an `.Rmd` file that generate the HTML picture gallery with [slickR](https://github.com/yonicd/slickR). 
 
-Finally, the script `_preprocess.R` reads in a spreadsheet with contributors info using googlesheets4, and creates teh respective profiles under `content/people/`; 
+Finally, the script `_preprocess.R` reads in a spreadsheet with contributors info using googlesheets4, and creates teh respective profiles under `content/people/`. 
+
+Under `config/` there are YAML file that define various parameters like base URL, menus, language, theme, SEO type, datetime format and so on. 
+In `config/menus.yaml`, you can modify the menu at the top of the page; the "weight" parameter determines the display order, and "name" must match a filename in `content/home/` (caps-sensitive). 

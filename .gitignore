@@ -7,6 +7,9 @@ _bookdown_files
 rsconnect
 .vscode/
 
+## slickR 
+content/home./past_editions.html
+
 ## Reproducible R stuff
 renv/
 renv.lock

@@ -4,12 +4,6 @@ subtitle:
 date: 20-02-2026
 ---
 
-<!-- #### *I am a [insert any biological discipline related to invertebrates], is this course for me?*
-Yes! If you study invertebrates, their evolution, ecology, physiology, behaviour, distribution you can apply. You should think about a clear application for technology to your study organism(s) / system, and about the impact it would have on your research. 
-
-#### *I am a data / computer scientist, engineer or from another technical background, with little experience in entomology, is this course for me?* 
-Yes! We encourage you to apply, but you need to demonstrate an existing commitment to studying insects (or invertebrates more generally) and a clear project idea that addresses an important research gap in entomology, ecology and/or biodiversity monitoring.  -->
-
 #### *I have no previous programming / electronics experience, can I participate?*
 While it is an advantage to have previous experience with coding, working with electronics and so on, and this is taken into account during evaluation, it does not preclude your participation. Students are expected to do up to 30h of preparation for the course, and this includes self-guided coding tutorials, for example. 
 

@@ -7,12 +7,12 @@
  - [x] Fix Past edition section padding around carousels - The padding is added when the height is not fixes in the R chunk... You either get nice padding but images don't resize properly, or viceversa... Calling it done with the former. 
  - [x] Add some new pics from 2025 edition in `static/img/`.
  - [x] Fixed links in acknowledgements
- - [ ] Re-write parts of the description based on feedback. - see [feedback doc](https://docs.google.com/document/d/1ZvhdLSRMQQ8EIsA95UL2lhdMlPYc_8gQvd6BTF_5NvY/edit?tab=t.0).
-   - [ ] Application process description
-   - [ ] Some more details about evaluation process
-   - [ ] Team project VS application project
-   - [ ] Emphasis on mentoring aspect
+ - [x] Re-write parts of the description based on feedback. - see [feedback doc](https://docs.google.com/document/d/1ZvhdLSRMQQ8EIsA95UL2lhdMlPYc_8gQvd6BTF_5NvY/edit?tab=t.0).
+   - [x] Application process description
+   - [x] Some more details about evaluation process
+   - [x] Team project VS application project
+   - [x] Emphasis on mentoring aspect
    - [ ] FAQ to common doubts?
    - [ ] Venue???
- - [ ] Add dynamic preliminary program (pull from the GSheet directly) - pay attention of when and how it updates, maybe on a schedule?
+ - [ ] ~~Add dynamic preliminary program (pull from the GSheet directly) - pay attention of when and how it updates, maybe on a schedule?~~
   - [ ] Update links to application forms

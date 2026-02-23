@@ -6,10 +6,26 @@ _book
 _bookdown_files
 rsconnect
 .vscode/
+.secret*
+
+## slickR etc
+content/home/past_editions.html
+content/people/auto*
 
 ## Reproducible R stuff
 renv/
 renv.lock
+
+## Hugo default output directory
+/public
+/_public
+blogdown
+.hugo_build.lock
+
+## Blogdown stuff
+*_gen/*
+resources/
+static/rmarkdown-libs/
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -236,15 +252,3 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
-
-# Hugo default output directory
-/public
-/_public
-blogdown
-.hugo_build.lock
-
-.secret*
-
-*_gen/*
-resources/
-static/rmarkdown-libs/

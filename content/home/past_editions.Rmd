@@ -3,7 +3,7 @@
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 50
 
 title: Past Editions
 subtitle:
@@ -11,14 +11,14 @@ subtitle:
 design:
   columns: '2'
 ---
+Gallery 2024
 
 ```{r, echo=FALSE, message=FALSE}
 library(slickR)
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
-  
-)
+  )
 
 opts <- slickR::settings(
   dots = TRUE,
@@ -26,26 +26,42 @@ opts <- slickR::settings(
   initialSlide = 0,
   slidesToShow = 2, 
   slidesToScroll = 2, 
-  focusOnSelect = TRUE)
-
-
+  focusOnSelect = TRUE, 
+  adaptiveHeight = FALSE)
 
 slickR::slickR(
     sprintf("img/access-2024/%02d.jpg", 1:9),
     height = 300,
-    width = '95%') + opts
+    width = '100%') + opts
+```
+
+Gallery 2025
+
+```{r, echo=FALSE, message=FALSE}
+library(slickR)
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+  )
+
+opts <- slickR::settings(
+  dots = TRUE,
+  autoplay = TRUE,
+  initialSlide = 0,
+  slidesToShow = 2, 
+  slidesToScroll = 2, 
+  focusOnSelect = TRUE, 
+  adaptiveHeight = FALSE)
+
+slickR::slickR(
+    sprintf("img/access-2025/%02d.jpg", 1:9),
+    height = 300,
+    width = '100%') + opts
 ```
 
 
 
-Last year we ran the first edition of ACCESS with ([ACCESS-2025](https://darsa.info/ACCESS-2025/)),
-which, due to the dedication of the students and mentors, was a *[huge success](https://www.linkedin.com/pulse/when-ai-technology-revolutionises-biologists-vh3tf/?trackingId=yfMjRzJLxsUhWQjjFfDxJg%3D%3D)*, and we learn a lot about from each other.
-In 2024, we received more than 100 applications, but could only select 20 participants.
-Therefore, we are thrilled to have an opportunity to run the course again and offer this learning opportunity to more.
+ACCESS has been run twice so far, in 2024 and 2025, and, due to the dedication of the students and mentors, it has been a *[huge success](https://www.linkedin.com/pulse/when-ai-technology-revolutionises-biologists-vh3tf/?trackingId=yfMjRzJLxsUhWQjjFfDxJg%3D%3D)*, and we learnt a lot from each other.
+ACCESS has attracted between 70 and 100 application each year, but we could only select 20 participants; we are thrilled to run the course again this year and offer this learning opportunity to more students!
 
-More information and material is available on the [ACCESS-2025 website](https://darsa.info/ACCESS-2025/).
-
-
-
-
-
+Here are the past editions' websites: [ACCESS-2024 website](https://darsa.info/ACCESS-2024/), [ACCESS-2025 website](https://darsa.info/ACCESS-2025/). 

@@ -58,6 +58,10 @@ PEOPLE_GOOGLE_SHEET_ID=your_google_sheet_id_here
 
 Trying to paste the content of the JSON private key file into the `.secret` file and parse it as an environmental variable creates all sorts of issues; better to serve it this way and keep the R script aligned with the CI workflow. 
 
+The correct Google Sheet is under ACCESS-2026 > 01_website > Contributors_for_people_pages. 
+
+Make sure the spreadsheet is shared with the service account email, with at least Viewer permissions. 
+
 ### Build and Serve Locally
 #### Linux (Ubuntu/Debian)
 ``` shell
@@ -69,3 +73,13 @@ build.bat
 ``` 
 
 If successful, Hugo should serve the website on `localhost` address that you can open in your browser. 
+
+# Minimal notes on Blogdown / Hugo
+Everything that is in `static/` will be copied to a dir named `public/` during website building. Specifically, new media should be added under `static/img/` or `static/video/`. 
+
+To modify the website pages, you should only need to edit the `.md` files contained in `content/`. In addition to the markdown files, there is an `.Rmd` file that generate the HTML picture gallery with [slickR](https://github.com/yonicd/slickR). 
+
+Finally, the script `_preprocess.R` reads in a spreadsheet with contributors info using googlesheets4, and creates teh respective profiles under `content/people/`. 
+
+Under `config/` there are YAML file that define various parameters like base URL, menus, language, theme, SEO type, datetime format and so on. 
+In `config/menus.yaml`, you can modify the menu at the top of the page; the "weight" parameter determines the display order, and "name" must match a filename in `content/home/` (caps-sensitive). 

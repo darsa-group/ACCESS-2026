@@ -32,4 +32,4 @@ During automated monitoring field tests and extra-curricular excursions, partici
 </p> -->
 
 ### Venue
-Details will be published soon. 
+*Details will be published soon...*

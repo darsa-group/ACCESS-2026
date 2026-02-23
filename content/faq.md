@@ -31,5 +31,4 @@ Unfortunately no, due to the short duration we do not have the time to collect d
 #### *How does mentoring work?*
 Each team is assigned a mentor based on their theme, and the mentor will be chosen based on their expertise; each mentor follows only one team. The team and the mentor will meet (virtually) a few times in the months leading up to the in-person course, and develop together the collaborative project idea. 
 During the in-person course, mentors will be around and can answer any questions and offer support to theirs or any other team. We have organised "mentor swaps" where teams explain their project to other mentors than their own and receive feedback. 
-In general, mentors are there to help you get the most out of the course, so feel free to reach out to them before, during or after the course!
-
+In general, mentors are there to help you get the most out of the course, so feel free to reach out before, during or after the course!

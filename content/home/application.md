@@ -61,3 +61,6 @@ Applications are evaluated by the organisers together with select members of the
 
 Participation is competitive due to the high number of applications received in previous editions.
 For more details on the evaluation procedure read [this page](evaluation). 
+
+#### Financial aspects
+For more details, please see the dedicated [page](financials). 

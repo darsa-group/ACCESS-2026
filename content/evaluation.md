@@ -12,9 +12,9 @@ The **second paragraph** should describe one or more specific research question(
 
 Because the course is project-based, the proposed research idea(s) are an important part of the application. Your project could involve monitoring insect behaviour in the field or laboratory, detecting or quantifying traits in specimens, building new hardware or mobile applications, automating existing research tasks, or generating new types of biological data. We are interested in a broad range of ideas related to computational entomology and will also consider projects involving other terrestrial invertebrates.
 
-Applications will be reviewed by the organisers with the help of a select group of core members from InsectAI. All submitted information is treated confidentially, and applicants may request deletion of their data after a specified period.
+Applications will be reviewed by the organisers with the help of a select group of core members from InsectAI. All submitted information is treated confidentially, and applicants may request deletion of their data after the notice period has ended (see "Selection outcome").
 
-Each application will be reviewed by at least two evaluators while avoiding conflicts of interest (for example supervisor–student or teacher–student relationships).
+Each application will be reviewed by two evaluators whenever possible, while avoiding conflicts of interest (for example supervisor–student or teacher–student relationships).
 
 ## Shortlisting
 
@@ -31,7 +31,7 @@ Evaluators will then discuss the shortlisted candidates collectively and attempt
 
 During the final stage we will also examine the submitted CVs to support the final decision. Complementarity between candidates, including differences in expertise, background, and skills, is also considered.
 
-Please note that **joint applications are not permitted**. Applicants should not attempt to coordinate their submissions with other candidates.
+Please note that *joint applications are not permitted*. Applicants should not attempt to coordinate their submissions with other candidates.
 
 ## Selection outcome
 

@@ -14,7 +14,7 @@ For the *travel costs*, participants must submit receipts for travel exceeding 5
 Please note that only direct and uninterrupted travel can be reimbursed. If a stop longer than 24 hours is made on the way to the event, only one leg of the journey may be reimbursed under COST rules.Additionally, cumulative tickets (e.g. Interrail) are not claimable, not even in part. 
 Travel costs should not exceed **500 EUR**. For selected candidates travelling from outside mainland Europe & UK, we will be in touch separately. 
 
-The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km). Participants will receive an invoice from the venue for these costs shortly before the course begins. The daily allowance will be in any case sufficient to cover the venue invoice. 
+The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km). It is possible that participants receive an invoice from the venue for these costs shortly before the course begins. The daily allowance will be sufficient to cover the venue invoice as well as additional costs. 
 
 All reimbursements are made in Euros, irrespective of the currency of the expenses. 
 

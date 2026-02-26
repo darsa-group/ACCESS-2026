@@ -8,7 +8,7 @@ In the application form you will be asked to provide some personal details, uplo
 
 The **first paragraph** should describe your background, your interest in the topic, and what you hope to gain from the course. This helps us assess your motivation to attend the summer school and its potential impact on your career.
 
-The **second paragraph** should describe one or more specific research question(s) or problem(s) you are excited to tackle in invertebrate evolution, ecology, behaviour, conservation, distribution, or related fields. This allows us to evaluate your creativity and your ability to identify meaningful gaps / opportunities in the field.
+The **second paragraph** should describe one or more specific research project(s), question(s) or problem(s) you are excited to tackle in invertebrate evolution, ecology, behaviour, conservation, distribution, or related fields. This allows us to evaluate your creativity and your ability to identify meaningful gaps / opportunities in the field. **You will not necessarily work on the problem(s) you describe here**; this paragraph helps us gauge your current understanding and research interests.
 
 Because the course is project-based, the proposed research idea(s) are an important part of the application. Your project could involve monitoring insect behaviour in the field or laboratory, detecting or quantifying traits in specimens, building new hardware or mobile applications, automating existing research tasks, or generating new types of biological data. We are interested in a broad range of ideas related to computational entomology and will also consider projects involving other terrestrial invertebrates.
 

@@ -56,7 +56,7 @@ but starting to use and developing these methods -- and applying them to real-wo
 ACCESS-2026 is an **in-person, residential summer school** based in Aarhus, Denmark. The event will run from **September 28th** to **October 3th, 2026** (provisional dates). 
 
 ## What we offer
-* • A fully-funded course - **free tuition, accommodation, food and travel refunds** for the selected candidates: we can support between 15 and 20 participants, but might be able to host a few self-funded candidates
+* • A fully-funded course - **free tuition, and refunds for accommodation, food and travel** for the selected candidates: we can support between 15 and 20 participants, but might be able to host a few self-funded candidates
 * • A series of **guest lectures** and **practical workshops** from international experts
 * • A **project-based** learning experience within a **multidisciplinary student and mentor team**
 
@@ -66,13 +66,13 @@ ACCESS-2026 is an **in-person, residential summer school** based in Aarhus, Denm
 * • We particularly support early-career researchers (graduate students, PhDs and postdocs)
 
 ## What will you do
-The course is structured around a group project you will develop in a team of 2-4 students. We will provide you with a mock funding call, and you and your team will write a collaborative research project to submit as a proposal for this mock call.  
+The course is structured around a group project you will develop in a team of 2-4 students. We will provide you with a mock funding call, and you and your team will write a collaborative research project to submit as a mock proposal.  
 
 Each group is assigned a mentor that will advise them on their project before and during the in-person course, and will offer guidance on self-guided resources to prepare for the course (i.e. relevant papers, coding tutorials, etc). 
 
 You will meet online with your group starting around 2 months in advance of the in-person course, and start work on your collaborative project. Before and during the course there will be opportunities for feedback from peers, mentors and instructors. 
 
-The in-person course in Aarhus will consist of lectures, study cases and workshops, with time allocated for group project work each day. 
+The in-person course in Aarhus will consist of lectures, case studies and workshops, with time allocated for group project work each day. 
 
 
 <!-- ## How to take part

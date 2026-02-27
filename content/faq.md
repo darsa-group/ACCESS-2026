@@ -26,3 +26,15 @@ Unfortunately no, due to the short duration we do not have the time to collect m
 Each team is assigned a mentor based on their theme, and the mentor will be chosen based on their expertise; each mentor follows only one team. The team and the mentor will meet (virtually) a few times in the months leading up to the in-person course, and develop together the collaborative project idea. 
 During the in-person course, mentors will be around and can answer any questions and offer support to theirs or any other team. We have organised "mentor swaps" where teams explain their project to other mentors than their own and receive feedback. 
 In general, mentors are there to help you get the most out of the course, so feel free to reach out before, during or after the course!
+
+#### *How is the preparatory work distributed?*
+It depends on the composition of your team and the group project you co-design. Preparation may include reading relevant papers, following coding tutorials, or experimenting with electronics. Teams decide how to organise the work, with the goal that everyone starts the course with a shared baseline understanding. Discuss expectations and availability with your teammates and plan accordingly. Your mentor will be happy to support you by suggesting reading material and other resources. 
+
+#### *What kind of workload should I expect during the course?*
+You can consult the preliminary programme for an overview. Formal activities are generally not scheduled in the late afternoons or evenings, leaving time for project work and informal interactions. However, you should expect full days of activities and close collaboration with fellow participants and mentors, as is typical for intensive summer schools. Evening social activities are optional, but many past participants have found them particularly rewarding. 
+
+#### *Is the venue accessible for persons with physical disabilities?*
+*...more info coming soon...*
+
+#### *What are the accommodation arrangements like?*
+*...more info coming soon...*

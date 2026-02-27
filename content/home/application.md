@@ -50,7 +50,7 @@ Applicants should:
 - attend the **full 5-day in-person course**, but most of all
 - be excited to apply computational tools to biological questions!
 
-The application requires a CV and two short paragraphs describing your motivation and one or more research question(s) you would like to explore in invertebrate (preferably insect) ecology, behaviour, evolution, conservation or related fields.
+The application requires a CV (max 2 pages) and two short paragraphs (1500 characters each, with spaces) describing your motivation and one or more research question(s) you would like to explore in invertebrate (preferably insect) ecology, behaviour, evolution, conservation or related fields.
 
 ## How to apply
 *Application form link will be published soon...*

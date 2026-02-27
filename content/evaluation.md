@@ -4,7 +4,16 @@ subtitle:
 date: 20-02-2026
 ---
 
-In the application form you will be asked to provide some personal details, upload your CV, and write two short paragraphs of up to 1500 characters each.
+There are no specific requirements regarding education, age, or background for **eligibility**. 
+However, candidates should demonstrate sufficient proficiency in entomology or related disciplines, and/or in data science, computer science, or related fields, in order to benefit from the course. Applicants should also explain how participation in the course could positively influence their career development. 
+
+Students who have previously attended ACCESS are not eligible to apply, while applicants who were unsuccessful in previous years are welcome to apply again. 
+
+## How to apply
+
+In the application form you will be asked to provide some personal details, upload your CV, and write two short paragraphs of up to 1500 characters each, including spaces.
+
+Your **CV should be at most 2 pages long**, in PDF format, and clearly state your education and current affiliation(s); pages exceeding the 2-page limit will be discarded during evaluation. 
 
 The **first paragraph** should describe your background, your interest in the topic, and what you hope to gain from the course. This helps us assess your motivation to attend the summer school and its potential impact on your career.
 
@@ -40,5 +49,7 @@ Once teams have been formed, selected candidates will be contacted to confirm th
 There may be more selected candidates than available funding. In this case, applicants will be contacted in order of evaluation score and asked whether they could attend the course using their own funding (for example scholarships, institutional support, or scientific society grants). Invitations to participate with personal funding depend first on evaluation score and second on the availability of funds.
 
 When all places have been filled, the results will be communicated to all remaining applicants, at the latest by the **end of June 2026**.
+
+Due to the large number of applications received, we regret that we cannot provide individual feedback to unsuccessful applicants.
 
 In previous editions the course has received a large number of applications, so please keep in mind that participation is competitive.

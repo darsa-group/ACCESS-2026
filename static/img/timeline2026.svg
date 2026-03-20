@@ -26,15 +26,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="9.8065096"
-     inkscape:cx="17.182464"
-     inkscape:cy="49.252998"
+     inkscape:zoom="2.4516274"
+     inkscape:cx="326.72175"
+     inkscape:cy="26.920893"
      inkscape:window-width="2048"
      inkscape:window-height="1090"
      inkscape:window-x="-6"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <rect
@@ -172,9 +173,9 @@
        style="font-weight:bold;font-size:18.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="289.60156"
          y="379.19428"
-         id="tspan2"><tspan
+         id="tspan13"><tspan
            style="font-weight:normal;font-size:24px;-inkscape-font-specification:'Arial, Normal'"
-           id="tspan1">Important dates - 2026</tspan></tspan></text>
+           id="tspan8">Important dates - 2026</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,-86.384792,89.92921)"
@@ -184,51 +185,49 @@
        y="0"><tspan
          x="306.11455"
          y="373.13417"
-         id="tspan5">Apr 15<tspan
+         id="tspan17">Apr 15<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan3">th</tspan><tspan
+   id="tspan15">th</tspan><tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-   id="tspan4">
+   id="tspan16">
 </tspan></tspan><tspan
          x="266.53625"
          y="389.13417"
-         id="tspan10"><tspan
+         id="tspan19"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan9">Application
+           id="tspan18">Application
 </tspan></tspan><tspan
          x="285.97626"
          y="405.13417"
-         id="tspan12"><tspan
+         id="tspan39"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan11">deadline</tspan></tspan></text>
+           id="tspan20">deadline</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,20.275266,89.925082)"
        id="text1-8-0"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-7);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.09448819;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect1-1-7);shape-padding:0;display:inline;opacity:0.8;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.0944882;stroke-dasharray:none;stroke-opacity:1"
        x="58.433353"
        y="0"><tspan
-         x="243.90381"
-         y="373.13417"
-         id="tspan16">Sep 28<tspan
+         x="280.06699"
+         y="369.88522"
+         id="tspan42">Sep 14<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan13">th</tspan> to Oct  2<tspan
+   id="tspan40">th</tspan>-18<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan14">nd</tspan><tspan
-   style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-   id="tspan15">
-</tspan></tspan><tspan
+   id="tspan41">th</tspan>
+</tspan><tspan
          x="233.72028"
-         y="389.13417"
-         id="tspan18"><tspan
-           style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan17">Summer school
+         y="385.13417"
+         id="tspan44"><tspan
+           style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:Sans"
+           id="tspan43">Summer school
 </tspan></tspan><tspan
          x="270.34427"
-         y="405.13417"
-         id="tspan20"><tspan
-           style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';baseline-shift:baseline"
-           id="tspan19">(in person)</tspan></tspan></text>
+         y="401.13417"
+         id="tspan46"><tspan
+           style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:Sans"
+           id="tspan45">(in person)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,-53.113878,88.702214)"
@@ -238,21 +237,21 @@
        y="0"><tspan
          x="291.45703"
          y="373.13417"
-         id="tspan22">early June<tspan
+         id="tspan48">early June<tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan21">
+   id="tspan47">
 </tspan></tspan><tspan
          x="282.71228"
          y="389.13417"
-         id="tspan24"><tspan
+         id="tspan50"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan23">Selection
+           id="tspan49">Selection
 </tspan></tspan><tspan
          x="284.13626"
          y="405.13417"
-         id="tspan26"><tspan
+         id="tspan52"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan25">outcome</tspan></tspan></text>
+           id="tspan51">outcome</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,-20.324183,88.697981)"
@@ -262,21 +261,21 @@
        y="0"><tspan
          x="293.48438"
          y="373.13417"
-         id="tspan28">Jul to Sep<tspan
+         id="tspan54">Jul to Sep<tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan27">
+   id="tspan53">
 </tspan></tspan><tspan
          x="261.52823"
          y="389.13417"
-         id="tspan30"><tspan
+         id="tspan56"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan29">Preparatory
+           id="tspan55">Preparatory
 </tspan></tspan><tspan
          x="252.02426"
          y="405.13417"
-         id="tspan32"><tspan
+         id="tspan58"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan31">work (virtual)</tspan></tspan></text>
+           id="tspan57">work (virtual)</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22913589,-0.13229166,0.13229166,0.22913589,45.343202,88.756568)"
@@ -286,20 +285,20 @@
        y="0"><tspan
          x="328.1543"
          y="373.13417"
-         id="tspan34">Nov<tspan
+         id="tspan60">Nov<tspan
    style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan33">
+   id="tspan59">
 </tspan></tspan><tspan
          x="264.02426"
          y="389.13417"
-         id="tspan36"><tspan
+         id="tspan62"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan35">Final report
+           id="tspan61">Final report
 </tspan></tspan><tspan
          x="266.52023"
          y="405.13417"
-         id="tspan38"><tspan
+         id="tspan64"><tspan
            style="font-weight:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan37">&amp; feedback</tspan></tspan></text>
+           id="tspan63">&amp; feedback</tspan></tspan></text>
   </g>
 </svg>

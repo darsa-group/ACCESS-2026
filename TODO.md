@@ -12,7 +12,7 @@
    - [x] Some more details about evaluation process
    - [x] Team project VS application project
    - [x] Emphasis on mentoring aspect
-   - [ ] FAQ to common doubts?
-   - [ ] Venue???
+   - [x] Venue???
+    - [ ] Last FAQs on venue
  - [ ] ~~Add dynamic preliminary program (pull from the GSheet directly) - pay attention of when and how it updates, maybe on a schedule?~~
   - [ ] Update links to application forms

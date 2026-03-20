@@ -4,6 +4,9 @@ subtitle:
 date: 23-02-2026
 ---
 
+While participation is globally open, **eligibility for financial support** (i.e. reimbursement of travel and daily allowance) depends on the country of the participant's affiliation, as defined in [section 6.4](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf#%5B%7B%22num%22%3A147%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C69%2C748%2C0%5D) of the [COST annotated rules](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf) (consulted March 2026). 
+Participants should verify their specific reimbursement status based on their institution's location (countries membership status [here](https://www.cost.eu/about/members/)). 
+
 The summer school is sponsored by the [InsectAI COST Action](https://insectai.eu/), and reimbursements follows the rules of the [COST Association](https://www.cost.eu/). There are no special provisions for training courses, so reimbursement follows the general event attendance rules. 
 
 This means that **participants must initially cover their own expenses** and submit a reimbursement claim after the course has ended. Unfortunately, due to administrative constraints, we cannot directly pay for travel or accommodation.

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keynote | InsectAI  ACCESS-2026</title>
+    <link>https://darsa.info/ACCESS-2026/tag/keynote/</link>
+      <atom:link href="https://darsa.info/ACCESS-2026/tag/keynote/index.xml" rel="self" type="application/rss+xml" />
+    <description>keynote</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://darsa.info/ACCESS-2026/media/icon_hu2370e8fd8da1b2d6ed75140c480413ad_90704_512x512_fill_lanczos_center_3.png</url>
+      <title>keynote</title>
+      <link>https://darsa.info/ACCESS-2026/tag/keynote/</link>
+    </image>
+    
+    <item>
+      <title>Jamie Alison</title>
+      <link>https://darsa.info/ACCESS-2026/people/auto-jalison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/ACCESS-2026/people/auto-jalison/</guid>
+      <description>&lt;p&gt;Jamie is a tenure-track researcher in &lt;a href=&#34;https://ecos.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecoscience&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;His research is centred on the impacts of land use on wildlife, and especially insects. &lt;/p&gt;
+&lt;p&gt;To better understand trends in insect biodiversity, he design and deploys &amp;ldquo;insect surveillance cameras&amp;rdquo; to monitor minifauna in the wild at extreme spatial and temporal resolutions.&lt;/p&gt;
+&lt;p&gt;He has expertise in computer vision and AI-assisted extraction of data from wildlife imagery and vessel-borne radar, as well as open-source Geographic Information Systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Luca Pegoraro</title>
+      <link>https://darsa.info/ACCESS-2026/people/auto-lpegoraro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/ACCESS-2026/people/auto-lpegoraro/</guid>
+      <description>&lt;p&gt;Luca is a postdoc at WSL in the Biodiversity and Conservation Unit, and he works together with the Swiss Data Science Center to build camera systems and models to monitoring pollinators in the field&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toke Høye</title>
+      <link>https://darsa.info/ACCESS-2026/people/auto-thoye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/ACCESS-2026/people/auto-thoye/</guid>
+      <description>&lt;p&gt;NA&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

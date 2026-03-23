@@ -36,5 +36,8 @@ You can consult the preliminary programme for an overview. Formal activities are
 #### *Is the venue accessible for persons with physical disabilities?*
 *...more info coming soon...*
 
+#### *How will payment work for the accommodation and food?*
+Accommodation and food will be invoiced by Kaløvig Center. The cost will be around 860 EUR, including all accommodation, meals, snacks, tea and coffee breaks from Sunday evening to Friday afternoon. We have made arrangements with the venue so you can pay after you receive your *daily allowance* reimbursement, ~1-4 weeks after the summer school. The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km), and will be sufficient to cover the venue invoice as well as additional costs. It is possible that participants receive an example invoice from the venue for these costs shortly before the course begins.
+
 #### *What are the accommodation arrangements like?*
-*...more info coming soon...*
+Most rooms have a sea view. They will mostly be shared between two students, providing good beds with goose down duvets and pillows, bed linen with satin weave, good towels, small table and/or desk with work lamp, armchair, wardrobe for clothes, TV, green plants, and lovely soaps and cream in the bathroom. The venue is close to the sea; an evening swim might be possible - weather permitting.

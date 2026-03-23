@@ -4,6 +4,8 @@ subtitle:
 date: 23-02-2026
 ---
 
+This page is mostly applicable to funded attendees, but there may be some useful information for self-funded attendees who will cover their own travel, food and accommodation.
+
 While participation is globally open, **eligibility for financial support** (i.e. reimbursement of travel and daily allowance) depends on the country of the participant's affiliation, as defined in [section 6.4](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf#%5B%7B%22num%22%3A147%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C69%2C748%2C0%5D) of the [COST annotated rules](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf) (consulted March 2026). 
 Participants should verify their specific reimbursement status based on their institution's location (countries membership status [here](https://www.cost.eu/about/members/)). 
 
@@ -17,17 +19,17 @@ For the *travel costs*, participants must submit receipts for travel exceeding 5
 Please note that only direct and uninterrupted travel can be reimbursed. If a stop longer than 24 hours is made on the way to the event, only one leg of the journey may be reimbursed under COST rules.Additionally, cumulative tickets (e.g. Interrail) are not claimable, not even in part. 
 Travel costs should not exceed **500 EUR**. For selected candidates travelling from outside mainland Europe & UK, we will be in touch separately. 
 
-The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km). It is possible that participants receive an invoice from the venue for these costs shortly before the course begins. The daily allowance will be sufficient to cover the venue invoice as well as additional costs. 
+For *daily allowance*, accommodation and food will be invoiced by Kaløvig Center. The cost will be around 860 EUR, including all accommodation, meals, snacks, tea and coffee breaks from Sunday evening to Friday afternoon. We have made arrangements with the venue so you can pay after you receive your *daily allowance* reimbursement, ~1-4 weeks after the summer school. The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km), and will be sufficient to cover the venue invoice as well as additional costs. It is possible that participants receive an example invoice from the venue for these costs shortly before the course begins.
 
 All reimbursements are made in Euros, irrespective of the currency of the expenses. 
 
 You can find more details on the [Annotated rules for COST Actions](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf) document (version v3.0, Sep 2025 when consulted), specifically section [A1-3.1 Travel reimbursement rules](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf#%5B%7B%22num%22%3A189%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C33%2C557%2C0%5D). 
 
 To illustrate how the process typically works: a candidate applies to ACCESS before 15 April and receives an offer to attend on 20 May. After accepting the offer, she books her travel to Aarhus, paying approximately 350 EUR for a return ticket.
-Shortly before the course (around 15 August), she receives an invoice for accommodation and meals of 5,600 DKK (~750 EUR), which she pays directly to the venue.
-During the course, participants receive guidance on how to complete their reimbursement claim. After ACCESS concludes, she submits the claim and receives the full reimbursement of 1,100 EUR within 1–4 weeks.
+Shortly before the course (around 25 August), she receives an example invoice for accommodation and meals of 6,400 DKK (~850 EUR), which she will pay promptly after she has been reimbursed.
+During the course, participants receive guidance on how to complete their reimbursement claim. After ACCESS concludes, she submits the claim and receives the full reimbursement of ~1,100 EUR within 1–4 weeks, and immediately pays her invoice.
 
-In previous years, some participants arranged for their institution or research grant to temporarily cover travel and accommodation costs. After receiving the reimbursement, they returned the funds to their institution or grant.
+In previous years, some participants arranged for their institution or research grant to temporarily cover travel and/or accommodation costs. After receiving the reimbursement, they returned the funds to their institution or grant.
 The exact procedure depends on the institution or grant involved, so participants should contact their local administrators if they wish to explore this option.
 Please note that reimbursements must be made to individuals and cannot be paid directly to institutions or grants.
 

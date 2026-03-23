@@ -4,6 +4,8 @@ subtitle:
 date: 23-02-2026
 ---
 
+This page is mostly applicable to funded attendees, but there may be some useful information for self-funded attendees who will cover their own travel, food and accommodation.
+
 While participation is globally open, **eligibility for financial support** (i.e. reimbursement of travel and daily allowance) depends on the country of the participant's affiliation, as defined in [section 6.4](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf#%5B%7B%22num%22%3A147%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C69%2C748%2C0%5D) of the [COST annotated rules](https://www.cost.eu/uploads/2025/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V3.0-25-IX-2025.pdf) (consulted March 2026). 
 Participants should verify their specific reimbursement status based on their institution's location (countries membership status [here](https://www.cost.eu/about/members/)). 
 
@@ -17,7 +19,7 @@ For the *travel costs*, participants must submit receipts for travel exceeding 5
 Please note that only direct and uninterrupted travel can be reimbursed. If a stop longer than 24 hours is made on the way to the event, only one leg of the journey may be reimbursed under COST rules.Additionally, cumulative tickets (e.g. Interrail) are not claimable, not even in part. 
 Travel costs should not exceed **500 EUR**. For selected candidates travelling from outside mainland Europe & UK, we will be in touch separately. 
 
-The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km). It is possible that participants receive an invoice from the venue for these costs shortly before the course begins. The daily allowance will be sufficient to cover the venue invoice as well as additional costs. 
+For *daily allowance*, accommodation and food will be invoiced by Kaløvig Center. The cost will be around 860 EUR, and we have made arrangements with the venue so you can pay after you receive your *daily allowance* reimbursement ~14 days after the summer school. The *daily allowance* is a fixed per-diem amount intended to cover accommodation, meals, and local travel (<50 km), and will be sufficient to cover the venue invoice as well as additional costs. It is possible that participants receive an example invoice from the venue for these costs shortly before the course begins.
 
 All reimbursements are made in Euros, irrespective of the currency of the expenses. 
 

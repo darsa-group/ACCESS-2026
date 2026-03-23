@@ -26,6 +26,8 @@ design:
 
 The summer school will take place at [Kaløvigcenter](https://kalovigcenter.dk/en/), situated at the bay of Kalø Vig just north of Aarhus, the estate sits where steep coastal slopes meet forest. Originally built as a seaside hotel over 100 years ago, the center offers a calm and idyllic setting with a large garden featuring a fireplace, petanque court, and apple grove.
 
+Most rooms have a sea view. They will mostly be shared between two students, providing good beds with goose down duvets and pillows, bed linen with satin weave, good towels, small table and/or desk with work lamp, armchair, wardrobe for clothes, TV, green plants, and lovely soaps and cream in the bathroom. The venue is close to the sea; an evening swim might be possible - weather permitting.
+
 As Denmark's first carbon-neutral conference center, Kaløvigcenter runs entirely on renewable energy through solar panels, windmill shares, and geothermal installations. During the summer school, participants will enjoy well-prepared meals with homemade bread, fresh vegetables, and local produce while benefiting from the center's peaceful atmosphere, ideal for focused learning and collaboration.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -36,5 +38,5 @@ As Denmark's first carbon-neutral conference center, Kaløvigcenter runs entirel
   Image credits: KALØVIG Center
 </div>
 
-The venue is reachable by bus line 123 from Aarhus, plus a short taxi drive or ~20min walk on paved road. 
+The venue is reachable by bus line 123 from Aarhus, getting off at Følle, plus a ~25min walk on paved road. However, the best route from Aarhus Airport is probably to take the 312 bus to Ebeltoft and take the 123 towards Aarhus, getting off at Følle (25 min walk).
 Further info on how to reach the venue is available on their [website](https://kalovigcenter.dk/en/about-kaloevig-center/information-facts/); for accessibility options see the [FAQs](http://localhost:4321/ACCESS-2026/faq/).

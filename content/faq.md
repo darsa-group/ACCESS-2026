@@ -37,4 +37,4 @@ You can consult the preliminary programme for an overview. Formal activities are
 *...more info coming soon...*
 
 #### *What are the accommodation arrangements like?*
-*...more info coming soon...*
+Most rooms have a sea view. They will mostly be shared between two students, providing good beds with goose down duvets and pillows, bed linen with satin weave, good towels, small table and/or desk with work lamp, armchair, wardrobe for clothes, TV, green plants, and lovely soaps and cream in the bathroom. The venue is close to the sea; an evening swim might be possible - weather permitting.

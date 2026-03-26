@@ -29,7 +29,7 @@ Applicants should:
 The application requires a CV (max 2 pages) and two short paragraphs (1500 characters each, with spaces) describing your motivation and one or more research question(s) you would like to explore in invertebrate (preferably insect) ecology, behaviour, evolution, conservation or related fields.
 
 ## How to apply
-*Application form link will be published soon...*
+*Applications will open on March 30th...*
 <!-- To complete your application, please fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSdkV_H0xwVTJp4dqHnPGueykaeoOXKVLlsqoh4X4eCr9rZOQw/viewform?usp=header) **by April 15th, 2026**. -->
 
 #### Selection process

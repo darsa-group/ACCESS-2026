@@ -13,6 +13,7 @@
    - [x] Team project VS application project
    - [x] Emphasis on mentoring aspect
    - [x] Venue???
-    - [ ] Last FAQs on venue
+    - [x] Last FAQs on venue
  - [ ] ~~Add dynamic preliminary program (pull from the GSheet directly) - pay attention of when and how it updates, maybe on a schedule?~~
-  - [ ] Update links to application forms
+  - [x] Update links to application forms
+  - [ ] Update mentors when confirmed

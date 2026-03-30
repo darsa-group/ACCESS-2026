@@ -29,8 +29,7 @@ Applicants should:
 The application requires a CV (max 2 pages) and two short paragraphs (1500 characters each, with spaces) describing your motivation and one or more research question(s) you would like to explore in invertebrate (preferably insect) ecology, behaviour, evolution, conservation or related fields.
 
 ## How to apply
-*Applications will open on March 30th...*
-<!-- To complete your application, please fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSdkV_H0xwVTJp4dqHnPGueykaeoOXKVLlsqoh4X4eCr9rZOQw/viewform?usp=header) **by April 15th, 2026**. -->
+Fill out [the application form](https://docs.google.com/forms/d/e/1FAIpQLSdkV_H0xwVTJp4dqHnPGueykaeoOXKVLlsqoh4X4eCr9rZOQw/viewform?usp=header) by **April 30th, 2026**. 
 
 #### Selection process
 Applications are evaluated by the organisers together with select members of the InsectAI core group. Selection is based primarily on motivation and the proposed research idea(s), with the final stage also considering the CV and the complementarity of participants when forming project teams.

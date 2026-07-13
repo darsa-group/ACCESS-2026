@@ -22,7 +22,7 @@ jobs:
       - name: Install system libraries
         run: sudo apt-get update && sudo apt-get install -y libcurl4-openssl-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev libuv1-dev
       - name: Install R package dependencies
-        run: Rscript --vanilla -e 'install.packages(c("rmarkdown","blogdown","googlesheets4","glue","dplyr","rlang","RefManageR","kableExtra","bibtex","rjson","data.table","htmlwidgets","sass","bslib","fs","remotes"), repos = "https://cloud.r-project.org/")'
+        run: Rscript --vanilla -e 'install.packages(c("rmarkdown","blogdown","googlesheets4","glue","dplyr","rlang","RefManageR","kableExtra","bibtex","rjson","data.table","htmlwidgets","sass","bslib","fs","remotes","checkmate"), repos = "https://cloud.r-project.org/")'
       - name: Install slickR from GitHub
         run: Rscript --vanilla -e 'remotes::install_github("yonicd/slickR", dependencies = FALSE, upgrade = "never")'
       - name: Install Hugo

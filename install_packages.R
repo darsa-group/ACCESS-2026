@@ -13,12 +13,13 @@ install.packages(
     "googlesheets4",
     "glue",
     "dplyr",
+    "rlang",
     "RefManageR",
     "kableExtra",
     "bibtex",
     "rjson",
     "data.table",
-    "remotes"),  # Correctly formatted as a vector
+    "remotes"),
   lib = user_lib
 )
 
@@ -28,6 +29,6 @@ remotes::install_github("yonicd/slickR", lib = user_lib)
 # Install Hugo via blogdown
 blogdown::install_hugo("0.101.0")
 
-# Optional: Install renv for package management
-install.packages("renv", lib = user_lib)
-renv::activate()  # Run renv::restore() if renv.lock exists
+# # Optional: Install renv for package management
+# install.packages("renv", lib = user_lib)
+# renv::activate()  # Run renv::restore() if renv.lock exists

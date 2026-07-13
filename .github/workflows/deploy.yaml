@@ -1,9 +1,16 @@
 on:
   push:
-     branches:
-       - source
-  schedule:
-    - cron: "5 9 * * *"
+    branches:
+      - source
+    paths:
+      - _preprocess.R
+      - assets/**
+      - config/**
+      - content/**
+      - data/**
+      - layouts/**
+      - static/**
+      - theme.toml
 
 name: deploy website
 

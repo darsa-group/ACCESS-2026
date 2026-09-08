@@ -4,7 +4,13 @@ library("dplyr")
 library("stringr")
 library("rjson")
 
-ROLES <- c("keynote", "assistant", "organiser")
+ROLES <- c("organiser", "mentor", "assistant", "lecturer")
+
+role_enabled <- function(row, role) {
+  value <- row[[paste0("role_", role)]]
+  isTRUE(toupper(trimws(as.character(value))) == "TRUE")
+}
+
 SOCIAL_LINKS_MAP <- list(
 orcid=list(
   icon="orcid",
@@ -23,6 +29,12 @@ research_gate=list(
   icon_pack= "fab",
   name= "RG",
   url= "https://www.researchgate.net/profile/{value}"
+),
+website=list(
+  icon="globe",
+  icon_pack= "fas",
+  name= "Website",
+  url= "{value}"
 )
 )
 
@@ -84,14 +96,17 @@ make_people <- function(id_, debug_mode){
   themes <- names(themes[themes])
   themes <- str_replace(themes,"theme_","")
 
-  tags <- sapply(ROLES,function(i) {
+  tags <- vapply(ROLES,function(i) {
     if(debug_mode){
       print(paste0("role_",i))
     }
-    ifelse(row[[paste0("role_",i)]], i, NA)}
-    )
+    if (role_enabled(row, i)) i else NA_character_
+    }, character(1))
 
-  row$weight = row$role_organiser * 7 + row$role_keynote * 5 + row$role_assistant * 1
+  row$weight = role_enabled(row, "organiser") * 7 +
+    role_enabled(row, "mentor") * 5 +
+    role_enabled(row, "lecturer") * 3 +
+    role_enabled(row, "assistant") * 1
   tags <- na.omit(tags)
   #tags <- c(row$role)
   #todo add an alumni tag if end date is in the past

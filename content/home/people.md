@@ -20,12 +20,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Mentors
-      tag: keynote
-    - name: Assistants
-      tag: assistant
     - name: Organisers
       tag: organiser
+    - name: Assistants
+      tag: assistant
+    - name: Mentors
+      tag: mentor
+    - name: Lecturers
+      tag: lecturer
 
     
 
